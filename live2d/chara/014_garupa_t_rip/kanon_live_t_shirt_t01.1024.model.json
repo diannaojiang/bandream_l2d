@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "kanon_live_t_shirt_t01",
+	"model": "kanon_live_t_shirt_t01.moc",
+	"textures": [
+		"kanon_live_t_shirt_t01.1024/texture_00.png"
+	]
+}

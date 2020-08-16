@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "kaoru_live_t_shirt_t03",
+	"model": "kaoru_live_t_shirt_t03.moc",
+	"textures": [
+		"kaoru_live_t_shirt_t03.1024/texture_00.png"
+	]
+}

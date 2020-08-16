@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "hagumi_live_t_shirt_t02",
+	"model": "hagumi_live_t_shirt_t02.moc",
+	"textures": [
+		"hagumi_live_t_shirt_t02.1024/texture_00.png"
+	]
+}

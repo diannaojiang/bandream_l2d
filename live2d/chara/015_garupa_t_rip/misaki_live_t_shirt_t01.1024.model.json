@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "misaki_live_t_shirt_t01",
+	"model": "misaki_live_t_shirt_t01.moc",
+	"textures": [
+		"misaki_live_t_shirt_t01.1024/texture_00.png"
+	]
+}
