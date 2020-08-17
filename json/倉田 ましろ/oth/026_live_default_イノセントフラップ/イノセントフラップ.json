@@ -1,0 +1,508 @@
+{
+    "type": "Live2D Model Setting",
+    "name": "イノセントフラップ",
+    "model": "../../../../live2d/chara/026_live_default_rip/Vo_other-11.moc",
+    "textures": [
+        "../../../../live2d/chara/026_live_default_rip/texture_00.png",
+        "../../../../live2d/chara/026_live_default_rip/texture_01.png"
+    ],
+    "physics": "../../../../live2d/chara/026_live_default_rip/Vo_other-11.physics",
+    "expressions": [
+        {
+            "name": "angry01",
+            "file": "../../../../live2d/chara/026_general_rip/angry01.exp.json"
+        },
+        {
+            "name": "cry01",
+            "file": "../../../../live2d/chara/026_general_rip/cry01.exp.json"
+        },
+        {
+            "name": "default",
+            "file": "../../../../live2d/chara/026_general_rip/default.exp.json"
+        },
+        {
+            "name": "idle01",
+            "file": "../../../../live2d/chara/026_general_rip/idle01.exp.json"
+        },
+        {
+            "name": "kime01",
+            "file": "../../../../live2d/chara/026_general_rip/kime01.exp.json"
+        },
+        {
+            "name": "sad01",
+            "file": "../../../../live2d/chara/026_general_rip/sad01.exp.json"
+        },
+        {
+            "name": "serious01",
+            "file": "../../../../live2d/chara/026_general_rip/serious01.exp.json"
+        },
+        {
+            "name": "smile02",
+            "file": "../../../../live2d/chara/026_general_rip/smile02.exp.json"
+        },
+        {
+            "name": "smile03",
+            "file": "../../../../live2d/chara/026_general_rip/smile03.exp.json"
+        },
+        {
+            "name": "surprised01",
+            "file": "../../../../live2d/chara/026_general_rip/surprised01.exp.json"
+        }
+    ],
+    "motions": {
+        "angry": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/angry01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "cry": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/cry01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "idle": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/idle01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "kandou": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/kandou01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "kime": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/kime01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "nf": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf04.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf05.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "nf_left": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf_left01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "sad": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/sad01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "serious": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/serious01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "smile": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "surprised": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/surprised01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "uziuzi": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "tap": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "今日は私の誕生日なんだ。お祝い、してもらえたらいいな……",
+                "text": "今日は私の誕生日なんだ。お祝い、してもらえたらいいな……",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "透子ちゃん、お誕生日おめでとう。あとでみんなで写真撮ろうね",
+                "text": "透子ちゃん、お誕生日おめでとう。あとでみんなで写真撮ろうね",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_026027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "今日はななみちゃんのお誕生日。お祝いも青春……なのかな？",
+                "text": "今日はななみちゃんのお誕生日。お祝いも青春……なのかな？",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_026028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "つくしちゃん、お誕生日おめでとう。これからも頼りにしてるね",
+                "text": "つくしちゃん、お誕生日おめでとう。これからも頼りにしてるね",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_026029.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "今日はるいさんのお誕生日。プレゼント、喜んでくれるかな？",
+                "text": "今日はるいさんのお誕生日。プレゼント、喜んでくれるかな？",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_026030.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "桜の花びらが川を流れてるのって、なんだかパレードみたいだね",
+                "text": "桜の花びらが川を流れてるのって、なんだかパレードみたいだね",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "たんぽぽの綿毛がいっぱい飛んでる。春だけど雪が降ってるみたい",
+                "text": "たんぽぽの綿毛がいっぱい飛んでる。春だけど雪が降ってるみたい",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf02.mtn",
+                "name": "あ、ちょうちょ。学校で見たのと、同じ種類かな……？",
+                "text": "あ、ちょうちょ。学校で見たのと、同じ種類かな……？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
+                "name": "アイスにスイカにかき氷……お腹壊さないようにしないと……",
+                "text": "アイスにスイカにかき氷……お腹壊さないようにしないと……",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf02.mtn",
+                "name": "るいさん、どんなに暑くても表情が変わらないんだ。すごいなあ",
+                "text": "るいさん、どんなに暑くても表情が変わらないんだ。すごいなあ",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "大きな入道雲を見ると、何かが中にいるような想像しちゃうんだ",
+                "text": "大きな入道雲を見ると、何かが中にいるような想像しちゃうんだ",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
+                "name": "食欲の秋だね。好きなものより、苦手なもののほうが多いけど……",
+                "text": "食欲の秋だね。好きなものより、苦手なもののほうが多いけど……",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "月ノ森の人達も、焼き芋って食べるのかな？",
+                "text": "月ノ森の人達も、焼き芋って食べるのかな？",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf04.mtn",
+                "name": "秋って少しさびしいよね。……それが風流っていうものなのかな？",
+                "text": "秋って少しさびしいよね。……それが風流っていうものなのかな？",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "明るい空に月があると、違う世界に来たみたいでちょっと楽しいな",
+                "text": "明るい空に月があると、違う世界に来たみたいでちょっと楽しいな",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "雪の日は、なんだか世界が白い布団を被って眠ってるみたい……",
+                "text": "雪の日は、なんだか世界が白い布団を被って眠ってるみたい……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "つくしちゃん、いっぱい着込んでスズメみたいになってたんだ……",
+                "text": "つくしちゃん、いっぱい着込んでスズメみたいになってたんだ……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/surprised01.mtn",
+                "name": "も、もう明日が本番……？　どうしよう、お腹痛くなってきた……",
+                "text": "も、もう明日が本番……？　どうしよう、お腹痛くなってきた……",
+                "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "いよいよライブ本番……！　緊張するけど、楽しめたらいいな",
+                "text": "いよいよライブ本番……！　緊張するけど、楽しめたらいいな",
+                "sound": "../../../../sound/voice/system_rip/systemRealLive_026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
+                "name": "私、好き嫌いが多くて……おせちも黒豆くらいしか食べれないんだ",
+                "text": "私、好き嫌いが多くて……おせちも黒豆くらいしか食べれないんだ",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
+                "name": "鬼役になったらどうしよう……豆、きっと痛いよね……",
+                "text": "鬼役になったらどうしよう……豆、きっと痛いよね……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
+                "name": "チョコは好きだけど、虫歯になったらどうしよう……",
+                "text": "チョコは好きだけど、虫歯になったらどうしよう……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "透子ちゃんちのひな飾り、すっごく豪華でキレイだった……！",
+                "text": "透子ちゃんちのひな飾り、すっごく豪華でキレイだった……！",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_4.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "ホワイトデーだね。月ノ森の人へのお返しって、何にすれば……",
+                "text": "ホワイトデーだね。月ノ森の人へのお返しって、何にすれば……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_5.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/kime01.mtn",
+                "name": "わ、私……次のライブから、ラップする！　よ、ヨー……！",
+                "text": "わ、私……次のライブから、ラップする！　よ、ヨー……！",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_6.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "今日はハロウィンだね。透子ちゃん、張り切ってそうだなあ",
+                "text": "今日はハロウィンだね。透子ちゃん、張り切ってそうだなあ",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_7.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "メリークリスマス。ななみちゃんがね、パーティしたいんだって",
+                "text": "メリークリスマス。ななみちゃんがね、パーティしたいんだって",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_8.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "除夜の鐘って、毎年108回も突いて、壊れないのかな？",
+                "text": "除夜の鐘って、毎年108回も突いて、壊れないのかな？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_026_9.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "ぬいぐるみに囲まれてるとすごく落ち着くんだ……",
+                "text": "ぬいぐるみに囲まれてるとすごく落ち着くんだ……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/sad01.mtn",
+                "name": "教科書の音読、苦手なんだ。注目されるし、大きな声も出なくて",
+                "text": "教科書の音読、苦手なんだ。注目されるし、大きな声も出なくて",
+                "sound": "../../../../sound/voice/system_rip/systemStory_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "一人の時はよく空想してるかも。作詞のヒントになったりするんだ",
+                "text": "一人の時はよく空想してるかも。作詞のヒントになったりするんだ",
+                "sound": "../../../../sound/voice/system_rip/systemStory_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
+                "name": "ステージって、すごく熱いんだね。客席からだとわからなかった",
+                "text": "ステージって、すごく熱いんだね。客席からだとわからなかった",
+                "sound": "../../../../sound/voice/system_rip/systemBand_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "練習も楽しいけど、やっぱりライブって特別だよね",
+                "text": "練習も楽しいけど、やっぱりライブって特別だよね",
+                "sound": "../../../../sound/voice/system_rip/systemBand_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
+                "name": "歌詞、間違えないように気をつけなくちゃ……！",
+                "text": "歌詞、間違えないように気をつけなくちゃ……！",
+                "sound": "../../../../sound/voice/system_rip/systemBand_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            }
+        ],
+        "start": [
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
+                "name": "今日もがんばろうね",
+                "text": "今日もがんばろうね",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
+                "name": "待ってたよ。練習、始めてもいいかな……？",
+                "text": "待ってたよ。練習、始めてもいいかな……？",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
+                "name": "明日も来てくれる、よね？",
+                "text": "明日も来てくれる、よね？",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            }
+        ]
+    },
+    "lip_sync": "true",
+    "lip_scale": 8,
+    "auto_breath": false
+}

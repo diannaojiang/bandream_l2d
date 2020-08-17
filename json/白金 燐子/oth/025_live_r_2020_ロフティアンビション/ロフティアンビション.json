@@ -1,0 +1,567 @@
+{
+    "type": "Live2D Model Setting",
+    "name": "ロフティアンビション",
+    "model": "../../../../live2d/chara/025_live_r_2020_rip/rinko_other-11.moc",
+    "textures": [
+        "../../../../live2d/chara/025_live_r_2020_rip/texture_00.png"
+    ],
+    "physics": "../../../../live2d/chara/025_live_r_2020_rip/rinko_other-11.physics",
+    "expressions": [
+        {
+            "name": "rinko_default",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_default.exp.json"
+        },
+        {
+            "name": "rinko_sad",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_sad.exp.json"
+        },
+        {
+            "name": "rinko_shame",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_shame.exp.json"
+        },
+        {
+            "name": "rinko_smile01",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_smile01.exp.json"
+        },
+        {
+            "name": "rinko_surprised",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_surprised.exp.json"
+        },
+        {
+            "name": "rinko_worry",
+            "file": "../../../../live2d/chara/025_general_rip/rinko_worry.exp.json"
+        }
+    ],
+    "motions": {
+        "angry": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/angry01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "bye": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/bye01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "chuni": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/chuni02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "cry": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/cry01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "idle": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/idle01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/idle02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "kime": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/kime01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "nf": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf03.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf04.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf05.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "nf_left": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf_left01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "nf_right": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf_right01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "odoodo": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/odoodo01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/odoodo02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "sad": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/sad01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "serious": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/serious01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "shame": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/shame01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "smile": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile03.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "surprised": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/surprised01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "tap": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "みんなと演奏すると、こんなに楽しいんだ……",
+                "text": "和大家一起演奏竟然这么开心……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_025_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/odoodo01.mtn",
+                "name": "わ、わたし……話すの、苦手だから、その……ごめんなさい……",
+                "text": "我、我……不太会、说话，那个……对不起……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_025_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/odoodo02.mtn",
+                "name": "急に話しかけられると……ビクッと、するんです……",
+                "text": "你突然跟我说话……我吓了、一跳……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_025_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/shame01.mtn",
+                "name": "Roseliaの衣装……わたしなりに、頑張って、作ってみました……",
+                "text": "Roselia的衣服……我以自己的方式、努力、做好了……",
+                "sound": "../../../../sound/voice/system_rip/systemBand_025_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf04.mtn",
+                "name": "キーボードを持っていると、落ち着くんです……",
+                "text": "拿起键盘，我就很安心……",
+                "sound": "../../../../sound/voice/system_rip/systemBand_025_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "スタジオで練習していると……とても楽しいんです……",
+                "text": "在录音棚里练习曲子……我非常开心……",
+                "sound": "../../../../sound/voice/system_rip/systemBand_025_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今年のバレンタインチョコは……NFOのロゴをイメージしました",
+                "text": "今年のバレンタインチョコは……NFOのロゴをイメージしました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-154.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今井さんへの、誕生日プレゼント……詩集を選んでみました……",
+                "text": "今井さんへの、誕生日プレゼント……詩集を選んでみました……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-131.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "丸山さんの誕生日プレゼント……レースでラッピング、しました",
+                "text": "丸山さんの誕生日プレゼント……レースでラッピング、しました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-135.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今日は、市ヶ谷さんの誕生日……一緒に生徒会、がんばりましょう",
+                "text": "今日は、市ヶ谷さんの誕生日……一緒に生徒会、がんばりましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-134.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf03.mtn",
+                "name": "新しいコート、買おうかな……どんな色にしよう……？",
+                "text": "新しいコート、買おうかな……どんな色にしよう……？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-147.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "友希那さんの誕生日……猫のカメオを贈ろうと、思っています……",
+                "text": "友希那さんの誕生日……猫のカメオを贈ろうと、思っています……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-133.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今日は、大和さんの誕生日……演劇の衣装、また作ってみたいです",
+                "text": "今日は、大和さんの誕生日……演劇の衣装、また作ってみたいです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-136.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "Roseliaのみんなと、クリスマスパーティ……楽しみ……",
+                "text": "Roseliaのみんなと、クリスマスパーティ……楽しみ……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-159.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "人混みは苦手だけど……またみんなで、プール行きたいな",
+                "text": "人混みは苦手だけど……またみんなで、プール行きたいな",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-141.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf05.mtn",
+                "name": "夏のおすすめは……図書館、です。とにかく……涼しいですから",
+                "text": "夏のおすすめは……図書館、です。とにかく……涼しいですから",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-142.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "花火の音は……少し苦手ですけど……つい見入ってしまいます……",
+                "text": "花火の音は……少し苦手ですけど……つい見入ってしまいます……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-143.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/serious01.mtn",
+                "name": "つ、ついに本番……練習の全てを……出してきます……っ",
+                "text": "つ、ついに本番……練習の全てを……出してきます……っ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-151.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf03.mtn",
+                "name": "ひな人形の着物みたいな衣装……作ってみようかな……",
+                "text": "ひな人形の着物みたいな衣装……作ってみようかな……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-155.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/serious01.mtn",
+                "name": "高難易度クエストの、冬限定装備……絶対に、手に入れないと……",
+                "text": "高難易度クエストの、冬限定装備……絶対に、手に入れないと……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-148.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "外は寒いですけど……練習をすると……すぐに温かくなります……",
+                "text": "外は寒いですけど……練習をすると……すぐに温かくなります……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-149.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "家族で初詣に行ってきました……何をお願いしたのかは、内緒です",
+                "text": "家族で初詣に行ってきました……何をお願いしたのかは、内緒です",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-152.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "あこちゃん、おめでとう……これからもずっと……お祝いしたいな",
+                "text": "あこちゃん、おめでとう……これからもずっと……お祝いしたいな",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-130.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "氷川さん、おめでとうございます……パーティ、楽しみましょう",
+                "text": "氷川さん、おめでとうございます……パーティ、楽しみましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-132.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/serious01.mtn",
+                "name": "今年から毎日ジョギングを……う、ウソです……ごめんなさい……",
+                "text": "今年から毎日ジョギングを……う、ウソです……ごめんなさい……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-157.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "誕生日を……こんなにお祝いしてもらえるなんて……嬉しいです",
+                "text": "誕生日を……こんなにお祝いしてもらえるなんて……嬉しいです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-129.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "春は、柔らかい日差しの中で……ゆっくり本を読むのが、好きです",
+                "text": "春は、柔らかい日差しの中で……ゆっくり本を読むのが、好きです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-138.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "毎日、通学路の桜を見ながら……登校するのが、楽しみなんです",
+                "text": "毎日、通学路の桜を見ながら……登校するのが、楽しみなんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-139.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "大晦日は……いつも本を読みながら……年を越しています……",
+                "text": "大晦日は……いつも本を読みながら……年を越しています……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-160.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "お返しは、わたしの好きな本に出てくる……クッキーを作りました",
+                "text": "お返しは、わたしの好きな本に出てくる……クッキーを作りました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-156.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf04.mtn",
+                "name": "校庭に桜の花が散っているのを見ると……春だなって思います……",
+                "text": "校庭に桜の花が散っているのを見ると……春だなって思います……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-140.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf04.mtn",
+                "name": "本番前は、緊張します……でも、わたしは一人じゃないから……",
+                "text": "本番前は、緊張します……でも、わたしは一人じゃないから……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-150.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今日は、松原さんの誕生日……一緒に水族館に……行きたいな……",
+                "text": "今日は、松原さんの誕生日……一緒に水族館に……行きたいな……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-137.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf05.mtn",
+                "name": "楽しい文化祭になるように……生徒会長として、がんばります",
+                "text": "楽しい文化祭になるように……生徒会長として、がんばります",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-144.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "NFOの世界でも……木々が色づいてきました……秋です、ね……",
+                "text": "NFOの世界でも……木々が色づいてきました……秋です、ね……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-145.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "今度……あこちゃんと、紅葉狩りに行きます……楽しみです……",
+                "text": "今度……あこちゃんと、紅葉狩りに行きます……楽しみです……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-146.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "あこちゃんに頼まれてた……魔王の衣装……ようやく完成しました",
+                "text": "あこちゃんに頼まれてた……魔王の衣装……ようやく完成しました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-158.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/serious01.mtn",
+                "name": "モンスターに……豆を当てて倒すイベントが……始まりました……",
+                "text": "モンスターに……豆を当てて倒すイベントが……始まりました……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-153.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile02.mtn",
+                "name": "すごく、嬉しいです……ありがとうございます……",
+                "text": "すごく、嬉しいです……ありがとうございます……",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-RN.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            }
+        ],
+        "start": [
+            {
+                "file": "../../../../live2d/chara/025_general_rip/nf04.mtn",
+                "name": "が、がんばりましょう……",
+                "text": "加、加油吧……",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_025_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/odoodo01.mtn",
+                "name": "きょ、今日もよろしくお願いします……",
+                "text": "今、今天也请多关照……",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_025_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            },
+            {
+                "file": "../../../../live2d/chara/025_general_rip/smile01.mtn",
+                "name": "今日も……練習がんばりましょう……",
+                "text": "今天……也要加油练习……",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_025_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true"
+            }
+        ]
+    },
+    "lip_sync": "true",
+    "lip_scale": 8,
+    "auto_breath": false
+}
