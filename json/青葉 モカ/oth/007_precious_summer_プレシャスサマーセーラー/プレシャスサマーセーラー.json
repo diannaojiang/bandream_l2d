@@ -263,56 +263,62 @@
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
                 "name": "次いってみよー",
-                "text": "进行下一曲看看吧",
+                "text": "次いってみよー",
                 "sound": "../../../../sound/voice/system_rip/systemStory_007_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
                 "name": "ここからがいいトコなんだよな〜",
-                "text": "好戏现在才开始~",
+                "text": "ここからがいいトコなんだよな〜",
                 "sound": "../../../../sound/voice/system_rip/systemStory_007_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
                 "name": "あたしは前しか見ない。……今の蘭のマネ、似てた〜？",
-                "text": "我只会向前看……刚才我是在学兰说话，我学得像吗~？",
+                "text": "あたしは前しか見ない。……今の蘭のマネ、似てた〜？",
                 "sound": "../../../../sound/voice/system_rip/systemStory_007_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
                 "name": "いい演奏しちゃうよ〜",
-                "text": "我要进行一场很棒的演奏哦~",
+                "text": "いい演奏しちゃうよ〜",
                 "sound": "../../../../sound/voice/system_rip/systemBand_007_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/eeto01.mtn",
                 "name": "早く演奏したいなあー",
-                "text": "真想赶快演奏啊",
+                "text": "早く演奏したいなあー",
                 "sound": "../../../../sound/voice/system_rip/systemBand_007_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
                 "name": "どーぞよろしく〜",
-                "text": "你好，请多指教~",
+                "text": "どーぞよろしく〜",
                 "sound": "../../../../sound/voice/system_rip/systemBand_007_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -321,7 +327,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-056.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
@@ -330,7 +337,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-038.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -339,7 +347,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-039.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
@@ -348,7 +357,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-059.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
@@ -357,7 +367,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-033.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -366,7 +377,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-060.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -375,7 +387,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-051.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
@@ -384,7 +397,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-052.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -393,7 +407,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-053.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -402,7 +417,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-042.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
@@ -411,7 +427,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-043.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
@@ -420,7 +437,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-048.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
@@ -428,7 +446,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
@@ -437,7 +456,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-044.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -446,7 +466,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-064.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -455,7 +476,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-036.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -464,7 +486,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-037.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
@@ -473,7 +496,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-041.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -482,7 +506,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-045.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -491,7 +516,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-034.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -500,7 +526,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-050.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
@@ -509,7 +536,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-062.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
@@ -518,7 +546,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-040.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
@@ -527,7 +556,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-035.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -536,7 +566,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-054.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
@@ -545,7 +576,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-057.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
@@ -554,7 +586,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-061.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
@@ -563,7 +596,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-046.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
@@ -572,7 +606,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-047.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
@@ -581,7 +616,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-058.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -590,7 +626,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-063.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
@@ -599,10 +636,1178 @@
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MC.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "次いってみよー",
+                "text": "进行下一曲看看吧",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ここからがいいトコなんだよな〜",
+                "text": "好戏现在才开始~",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "あたしは前しか見ない。……今の蘭のマネ、似てた〜？",
+                "text": "我只会向前看……刚才我是在学兰说话，我学得像吗~？",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "いい演奏しちゃうよ〜",
+                "text": "我要进行一场很棒的演奏哦~",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/eeto01.mtn",
+                "name": "早く演奏したいなあー",
+                "text": "真想赶快演奏啊",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "どーぞよろしく〜",
+                "text": "你好，请多指教~",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "text": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "text": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "text": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "text": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "text": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "text": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "text": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "text": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "text": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "春は新作パンの季節！　モカちゃんが決めました～",
+                "text": "春は新作パンの季節！　モカちゃんが決めました～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "text": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "text": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "text": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "text": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "text": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "text": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "text": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "text": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "text": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "text": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "text": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "text": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "text": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "text": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "text": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "text": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "text": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "text": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "text": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "text": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "おー、モカちゃん愛を感じますな～",
+                "text": "おー、モカちゃん愛を感じますな～",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-MC.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "次いってみよー",
+                "text": "繼續試試下一首吧～",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ここからがいいトコなんだよな〜",
+                "text": "好戲才正要開始呢〜",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "あたしは前しか見ない。……今の蘭のマネ、似てた〜？",
+                "text": "我只想往前看。……剛剛我模仿蘭模仿得像不像啊〜？",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "いい演奏しちゃうよ〜",
+                "text": "來場很棒的演奏吧〜",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/eeto01.mtn",
+                "name": "早く演奏したいなあー",
+                "text": "好想趕快演奏啊～",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "どーぞよろしく〜",
+                "text": "請多指教〜",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "text": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "text": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "text": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "text": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "text": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "text": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "text": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "text": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "text": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "春は新作パンの季節！　モカちゃんが決めました～",
+                "text": "春は新作パンの季節！　モカちゃんが決めました～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "text": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "text": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "text": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "text": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "text": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "text": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "text": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "text": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "text": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "text": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "text": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "text": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "text": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "text": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "text": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "text": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "text": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "text": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "text": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "text": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "おー、モカちゃん愛を感じますな～",
+                "text": "おー、モカちゃん愛を感じますな～",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-MC.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "次いってみよー",
+                "text": "Keep going~.",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ここからがいいトコなんだよな〜",
+                "text": "This is a good place to start~.",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "あたしは前しか見ない。……今の蘭のマネ、似てた〜？",
+                "text": "I only see what's in front of me... How was my Ran impression~?",
+                "sound": "../../../../sound/voice/system_rip/systemStory_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "いい演奏しちゃうよ〜",
+                "text": "Let's have a great show~.",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/eeto01.mtn",
+                "name": "早く演奏したいなあー",
+                "text": "When's the next performance~?",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "どーぞよろしく〜",
+                "text": "Ready to go~?",
+                "sound": "../../../../sound/voice/system_rip/systemBand_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "text": "あけましゃ～す。もちろん今年もモカちゃんみくじは大吉で～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "text": "有咲、おたおめ～。ふふふー、テレてる有咲かわい～ね～～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "text": "沙綾、おたおめ～。これからもモカちゃんにどうか幸せを～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "text": "ほほー、この桜餅いい仕事してますな～。美味美味～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "text": "今日はモカちゃんのお誕生日～。パンよ、集まれ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "text": "今年はクッキーがほしいな～。もちろんチョコでもオッケーだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "text": "鍋の締めはラーメン派？　雑炊派？　モカちゃんはどっちも～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "text": "猫がこたつで丸くなるなら、モカちゃんだって丸くなるよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "text": "冬は焼きたてのパンにかぎるよね～。ほら、ホカホカだよ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "春は新作パンの季節！　モカちゃんが決めました～",
+                "text": "春は新作パンの季節！　モカちゃんが決めました～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "text": "学校の帰りにつくしを見つけたんだ～。春だね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "text": "秋といえばお月見～。パンと団子を一緒に食べるのがオツなんだ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "text": "優しい日差しに、柔らかい風……これは昼寝するしかないですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "text": "今年もいい年だったね～。来年もそんな感じで、どーぞよろしく～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "text": "トモちん、おたおめ～。トモちんはいつもカッコイイですな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "text": "生徒会で忙しいつぐには、モカちゃんの笑顔をプレゼント～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "text": "あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "text": "夏のオススメ快適スポットはコンビニのチルド前～。最高だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "text": "蘭、おたおめ～。プレゼントはモカちゃん作詞作曲の蘭の歌だよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "text": "鈴虫の声を聞きながら秋の夜長を楽しむモカちゃんなのであった～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "text": "今年はどのくらいお菓子もらえるかな～。がんばっておどかすぞ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "text": "リサさん、おめしゃっす。今年のお祝いの言葉は何点ですか～？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/niyaniya01.mtn",
+                "name": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "text": "ひーちゃん、今年はどのくらい泣いちゃうんだろ～？　楽しみ～♪",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "text": "明日は本番～。たくさんパンを食べて、腹ごしらえしなくちゃね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/kime01.mtn",
+                "name": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "text": "今年は豆まきだけじゃなくて、恵方巻きにも挑戦しちゃうよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "text": "みんなー、モカちゃんパンになっちゃったよ～。ホカホカで～す",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "text": "夏の醍醐味はキンキンに冷えた部屋でアイスを食べることだよね～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "text": "夏は浴衣だよね～。パン柄の浴衣があったら着てみたいな～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf02.mtn",
+                "name": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "text": "ハピバレ～。モカちゃんにチョコをプリーズ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "text": "モカちゃんサンタから、よい子にパンのプレゼントだよ～",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
+                "name": "おー、モカちゃん愛を感じますな～",
+                "text": "おー、モカちゃん愛を感じますな～",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-MC.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ],
         "start": [
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今日もがんばっちゃおー",
+                "text": "今日もがんばっちゃおー",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "おっつかれさまー。パン食べるー？",
+                "text": "おっつかれさまー。パン食べるー？",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "１日、元気でいきますかー",
+                "text": "１日、元気でいきますかー",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
                 "name": "今日もがんばっちゃおー",
@@ -610,7 +1815,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
@@ -619,7 +1825,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
             },
             {
                 "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
@@ -628,7 +1835,68 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今日もがんばっちゃおー",
+                "text": "今天也好好加油吧～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "おっつかれさまー。パン食べるー？",
+                "text": "辛苦囉～要吃麵包嗎～？",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "１日、元気でいきますかー",
+                "text": "今天一天也要鼓起幹勁～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/smile01.mtn",
+                "name": "今日もがんばっちゃおー",
+                "text": "Let's do this.",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf03.mtn",
+                "name": "おっつかれさまー。パン食べるー？",
+                "text": "Hello~. Do you wanna go get some buns?",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/007_general_rip/nf05.mtn",
+                "name": "１日、元気でいきますかー",
+                "text": "You doing okay today?",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_007_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ]
     },

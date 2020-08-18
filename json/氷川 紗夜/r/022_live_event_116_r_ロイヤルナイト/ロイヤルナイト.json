@@ -280,56 +280,62 @@
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
                 "name": "圧倒的な技術を、身につけなければ……",
-                "text": "必须要让自己掌握绝对精湛的技术……",
+                "text": "圧倒的な技術を、身につけなければ……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_022_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/angry02.mtn",
                 "name": "私にはギターしかないの！",
-                "text": "我眼里只有吉他！",
+                "text": "私にはギターしかないの！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_022_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
                 "name": "『サボる』なんて言葉は、私の中にありません",
-                "text": "我的字典里没有『偷懒』这个词",
+                "text": "『サボる』なんて言葉は、私の中にありません",
                 "sound": "../../../../sound/voice/system_rip/systemStory_022_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
                 "name": "弾いて弾いて弾いて、また弾く……毎日それの繰り返しです",
-                "text": "弹奏弹奏弹奏，继续弹奏……每天循环往复地练习",
+                "text": "弾いて弾いて弾いて、また弾く……毎日それの繰り返しです",
                 "sound": "../../../../sound/voice/system_rip/systemBand_022_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf01.mtn",
                 "name": "ギターが上手くなる近道なんかありません。地道に練習するのみ",
-                "text": "想弹好吉他没有捷径。只有老老实实练习",
+                "text": "ギターが上手くなる近道なんかありません。地道に練習するのみ",
                 "sound": "../../../../sound/voice/system_rip/systemBand_022_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
                 "name": "一人でギターに没頭する時間が好きですね",
-                "text": "我很喜欢独自埋头弹吉他的时光",
+                "text": "一人でギターに没頭する時間が好きですね",
                 "sound": "../../../../sound/voice/system_rip/systemBand_022_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -338,7 +344,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-036.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -347,7 +354,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-038.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -356,7 +364,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-033.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -365,7 +374,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-035.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
@@ -374,7 +384,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-045.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile03.mtn",
@@ -383,7 +394,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-046.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -392,7 +404,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-047.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -401,7 +414,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-061.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -410,7 +424,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-063.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -419,7 +434,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-055.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -428,7 +444,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-059.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -437,7 +454,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-056.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -446,7 +464,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-034.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -455,7 +474,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-042.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
@@ -464,7 +484,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-043.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
@@ -473,7 +494,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-044.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/sad01.mtn",
@@ -482,7 +504,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-048.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
@@ -491,7 +514,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-049.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -500,7 +524,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-050.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
@@ -509,7 +534,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-064.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -518,7 +544,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-060.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -527,7 +554,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-039.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
@@ -536,7 +564,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-054.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/surprised01.mtn",
@@ -545,7 +574,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-057.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -554,7 +584,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-051.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
@@ -563,7 +594,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-052.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -572,7 +604,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-040.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -581,7 +614,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-053.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
@@ -590,7 +624,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-062.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -599,7 +634,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-037.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
@@ -608,7 +644,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-058.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -617,7 +654,8 @@
                 "sound": "../../../../sound/voice/system_rip/sys-2020-RO-041.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
@@ -626,7 +664,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_022027.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -635,10 +674,1241 @@
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-SY.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "圧倒的な技術を、身につけなければ……",
+                "text": "必须要让自己掌握绝对精湛的技术……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/angry02.mtn",
+                "name": "私にはギターしかないの！",
+                "text": "我眼里只有吉他！",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "『サボる』なんて言葉は、私の中にありません",
+                "text": "我的字典里没有『偷懒』这个词",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "弾いて弾いて弾いて、また弾く……毎日それの繰り返しです",
+                "text": "弹奏弹奏弹奏，继续弹奏……每天循环往复地练习",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf01.mtn",
+                "name": "ギターが上手くなる近道なんかありません。地道に練習するのみ",
+                "text": "想弹好吉他没有捷径。只有老老实实练习",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "一人でギターに没頭する時間が好きですね",
+                "text": "我很喜欢独自埋头弹吉他的时光",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "text": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "text": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "text": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "text": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "text": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile03.mtn",
+                "name": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "text": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "text": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "text": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "text": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "text": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-055.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "text": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "text": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "text": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "text": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "text": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "text": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/sad01.mtn",
+                "name": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "text": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "text": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "text": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "text": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "text": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "text": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "text": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/surprised01.mtn",
+                "name": "み、湊さんが鬼役を？　……本気ですか？",
+                "text": "み、湊さんが鬼役を？　……本気ですか？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "text": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "text": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "text": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "text": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "text": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "text": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "text": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "text": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "text": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_022027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "ありがとうございます。大切にしますね",
+                "text": "ありがとうございます。大切にしますね",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-SY.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "圧倒的な技術を、身につけなければ……",
+                "text": "我必須學習獲得壓倒性的技術……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/angry02.mtn",
+                "name": "私にはギターしかないの！",
+                "text": "除了吉他，我就沒有其他長處了！",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "『サボる』なんて言葉は、私の中にありません",
+                "text": "我的字典裡是沒有『偷懶』這兩個字的。",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "弾いて弾いて弾いて、また弾く……毎日それの繰り返しです",
+                "text": "彈奏彈奏彈奏、然後再彈奏……每天都要重複進行這樣的動作",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf01.mtn",
+                "name": "ギターが上手くなる近道なんかありません。地道に練習するのみ",
+                "text": "吉他要變得厲害沒有捷徑。只有努力練習一途而已",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "一人でギターに没頭する時間が好きですね",
+                "text": "我最喜歡能獨自陶醉在演奏吉他的時候了。",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "text": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "text": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "text": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "text": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "text": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile03.mtn",
+                "name": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "text": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "text": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "text": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "text": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "text": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-055.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "text": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "text": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "text": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "text": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "text": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "text": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/sad01.mtn",
+                "name": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "text": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "text": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "text": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "text": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "text": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "text": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "text": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/surprised01.mtn",
+                "name": "み、湊さんが鬼役を？　……本気ですか？",
+                "text": "み、湊さんが鬼役を？　……本気ですか？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "text": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "text": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "text": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "text": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "text": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "text": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "text": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "text": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "text": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_022027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "ありがとうございます。大切にしますね",
+                "text": "真是非常謝謝你們。我會好好保存的",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-SY.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "圧倒的な技術を、身につけなければ……",
+                "text": "I need to have amazing skills...",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/angry02.mtn",
+                "name": "私にはギターしかないの！",
+                "text": "Guitar is my life!",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "『サボる』なんて言葉は、私の中にありません",
+                "text": "Slacking off isn't in my vocabulary.",
+                "sound": "../../../../sound/voice/system_rip/systemStory_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "弾いて弾いて弾いて、また弾く……毎日それの繰り返しです",
+                "text": "Guitar, guitar, guitar... Every day, rinse and repeat.",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf01.mtn",
+                "name": "ギターが上手くなる近道なんかありません。地道に練習するのみ",
+                "text": "There are no shortcuts to skill. The only road to perfection is practice.",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "一人でギターに没頭する時間が好きですね",
+                "text": "I love the times I can just get lost in playing my guitar alone.",
+                "sound": "../../../../sound/voice/system_rip/systemBand_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "text": "今井さん、誕生日おめでとう。次の作詞も楽しみにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-036.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "text": "巴さん、誕生日おめでとう。今度ラーメン、ご一緒させてください",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-038.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "text": "今日は私と日菜の誕生日です。二人で出かける約束をしています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-033.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "text": "湊さん、誕生日おめでとうございます。必ず高みへ行きましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-035.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "text": "この日焼け止めは、白鷺さんのオススメのものなんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-045.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile03.mtn",
+                "name": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "text": "蚊取り線香の匂いを嗅ぐと、夏が来たという気がします",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-046.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "text": "夏休みの宿題は計画的に。宇田川さんに伝えておかないと……",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-047.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "text": "今日から爪を伸ばしてネイルをしようと思います。……ウソです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-061.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "text": "今年のクリスマスは練習の前に日菜と食事に行くことになってます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-063.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "text": "さあ、私達だけの音楽をみんなに届けにいきましょう",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-055.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "text": "家では毎年ひなまつりの日に、母がひし餅を作ってくれるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-059.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "text": "あけましておめでとうございます。今年も色々挑戦するつもりです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-056.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "text": "宇田川さん、お誕生日おめでとう。これからも頼りにしているわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-034.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "text": "ゴールデンウィークももちろん練習です。私達に休みはありません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-042.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "text": "桜バター味の……ポテト。なるほど、春限定で発売中なのね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-043.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "text": "陽気がいい時こそ気を引き締め直し、普段の生活を送るべきです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-044.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/sad01.mtn",
+                "name": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "text": "肌寒くなってきたわね。そろそろカーディガンを出さないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-048.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "text": "秋は学校の行事が多いし……白金さん、体調は大丈夫かしら？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-049.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "text": "松原さんにモミジの栞をいただきました。読書がはかどりそうです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-050.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "text": "今年も終わりですね。来年も私達は先へ歩み続けます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-064.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "text": "お返しはクッキーです。レシピなしでも作れるようになりました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-060.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "text": "羽沢さん、誕生日おめでとう。日菜のこと、ありがとうございます",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-039.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "text": "やるべきことは全てやりました。あとはステージに立つだけです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-054.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/surprised01.mtn",
+                "name": "み、湊さんが鬼役を？　……本気ですか？",
+                "text": "み、湊さんが鬼役を？　……本気ですか？",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-057.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "text": "冬は弓道場の床が冷たいですが、弓を構えれば一切気になりません",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-051.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf04.mtn",
+                "name": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "text": "冬はこまめにストレッチしています。そうすると体が温まるんです",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-052.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "text": "日菜、誕生日おめでとう。また一緒に天体観測をしたいわね",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-040.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "text": "今日は羽沢さんからいただいた入浴剤を試してみようと思います",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-053.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/serious01.mtn",
+                "name": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "text": "NFOのハロウィンイベント……限定武器、手に入れないと",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-062.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "text": "白金さん、誕生日おめでとう。あなたの諦めない心、尊敬するわ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-037.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf03.mtn",
+                "name": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "text": "毎年作ってるからでしょうか。チョコを作ることに慣れてきました",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-058.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "text": "松原さん、誕生日おめでとう。教室の換気、いつも助かっています",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-RO-041.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf05.mtn",
+                "name": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "text": "誕生日おめでとう。桐ヶ谷さんの演奏、私は嫌いじゃないですよ",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_022027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "ありがとうございます。大切にしますね",
+                "text": "Thank you. I'll be sure to treasure it.",
+                "sound": "../../../../sound/voice/system_rip/2019BDRE-SY.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ],
         "start": [
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf02.mtn",
+                "name": "来るのが遅いです。始めましょう。",
+                "text": "来るのが遅いです。始めましょう。",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/kime01.mtn",
+                "name": "遊んでいる暇はありません。早く練習の準備を始めてください",
+                "text": "遊んでいる暇はありません。早く練習の準備を始めてください",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は来るのが早いですね。いい傾向です",
+                "text": "今日は来るのが早いですね。いい傾向です",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf02.mtn",
                 "name": "来るのが遅いです。始めましょう。",
@@ -646,7 +1916,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/kime01.mtn",
@@ -655,7 +1926,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
             },
             {
                 "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
@@ -664,7 +1936,68 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf02.mtn",
+                "name": "来るのが遅いです。始めましょう。",
+                "text": "你們來得太晚了。開始吧。",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/kime01.mtn",
+                "name": "遊んでいる暇はありません。早く練習の準備を始めてください",
+                "text": "我們可沒有時間磨蹭了，快點開始準備練習吧。",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は来るのが早いですね。いい傾向です",
+                "text": "今天你來得真早呢。這是好事唷",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/nf02.mtn",
+                "name": "来るのが遅いです。始めましょう。",
+                "text": "You're late. Let's get started.",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/kime01.mtn",
+                "name": "遊んでいる暇はありません。早く練習の準備を始めてください",
+                "text": "There's no time to relax. Hurry up and get ready for practice.",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/022_live_event_116_r_rip/smile01.mtn",
+                "name": "今日は来るのが早いですね。いい傾向です",
+                "text": "You're early today. That's good.",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_022_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ]
     },

@@ -187,7 +187,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_028026.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf02.mtn",
@@ -196,7 +197,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_028027.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -205,7 +207,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_028.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -214,7 +217,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_028029.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
@@ -223,7 +227,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_028030.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -232,7 +237,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSpring_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -241,7 +247,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSpring_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf04.mtn",
@@ -250,7 +257,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSpring_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/kime01.mtn",
@@ -259,7 +267,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSummer_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -268,7 +277,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSummer_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/surprised01.mtn",
@@ -277,7 +287,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemSummer_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -286,7 +297,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
@@ -295,7 +307,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -304,7 +317,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -313,7 +327,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemWinter_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/sad01.mtn",
@@ -322,7 +337,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemWinter_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -331,7 +347,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemWinter_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -340,7 +357,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_028.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -349,7 +367,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemRealLive_028.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -358,7 +377,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -367,7 +387,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -376,7 +397,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -385,7 +407,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_4.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/eeto01.mtn",
@@ -394,7 +417,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_5.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -403,7 +427,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_6.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -412,7 +437,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_7.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -421,7 +447,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_8.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -430,7 +457,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemHoliday_028_9.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -439,7 +467,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemStory_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -448,7 +477,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemStory_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -457,7 +487,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemStory_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
@@ -466,7 +497,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBand_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -475,7 +507,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemBand_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -484,7 +517,1028 @@
                 "sound": "../../../../sound/voice/system_rip/systemBand_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "text": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf02.mtn",
+                "name": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "text": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "text": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "text": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028029.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "text": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028030.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "text": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "text": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf04.mtn",
+                "name": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "text": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/kime01.mtn",
+                "name": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "text": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "text": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/surprised01.mtn",
+                "name": "わわっ！　ベースケースがホカホカになってる！",
+                "text": "わわっ！　ベースケースがホカホカになってる！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "text": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "text": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "text": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "text": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/sad01.mtn",
+                "name": "冬のアトリエはあったまるまで地獄だよ～……",
+                "text": "冬のアトリエはあったまるまで地獄だよ～……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "text": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "text": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "青春の１ページに残るようなライブにしたいな〜！",
+                "text": "青春の１ページに残るようなライブにしたいな〜！",
+                "sound": "../../../../sound/voice/system_rip/systemRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "text": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "text": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "text": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "text": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_4.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/eeto01.mtn",
+                "name": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "text": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_5.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "text": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_6.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "text": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_7.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "text": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_8.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "text": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_9.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はどんな楽しいことが待ってるのかな～",
+                "text": "今日はどんな楽しいことが待ってるのかな～",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "text": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "text": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "text": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "ライブって、何が起こるかわからないから楽しいよね！",
+                "text": "ライブって、何が起こるかわからないから楽しいよね！",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "text": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "text": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf02.mtn",
+                "name": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "text": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "text": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "text": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028029.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "text": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028030.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "text": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "text": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf04.mtn",
+                "name": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "text": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/kime01.mtn",
+                "name": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "text": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "text": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/surprised01.mtn",
+                "name": "わわっ！　ベースケースがホカホカになってる！",
+                "text": "わわっ！　ベースケースがホカホカになってる！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "text": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "text": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "text": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "text": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/sad01.mtn",
+                "name": "冬のアトリエはあったまるまで地獄だよ～……",
+                "text": "冬のアトリエはあったまるまで地獄だよ～……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "text": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "text": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "青春の１ページに残るようなライブにしたいな〜！",
+                "text": "青春の１ページに残るようなライブにしたいな〜！",
+                "sound": "../../../../sound/voice/system_rip/systemRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "text": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "text": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "text": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "text": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_4.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/eeto01.mtn",
+                "name": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "text": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_5.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "text": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_6.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "text": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_7.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "text": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_8.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "text": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_9.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はどんな楽しいことが待ってるのかな～",
+                "text": "今日はどんな楽しいことが待ってるのかな～",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "text": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "text": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "text": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "ライブって、何が起こるかわからないから楽しいよね！",
+                "text": "ライブって、何が起こるかわからないから楽しいよね！",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "text": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "text": "今日はしろちゃんの誕生日！　特製ケーキでお祝いだ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028026.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf02.mtn",
+                "name": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "text": "とーこちゃん、ハピバ！　わー、いろんな人に囲まれてる……",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028027.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "text": "今日は私の誕生日なんだ～。みんながお祝いしてくれるって！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "text": "今日はつーちゃんの誕生日！　友達にプレゼントって緊張するね！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028029.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "text": "今日はるいるいの誕生日！　何とか喜んでもらうぞ～！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_028030.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "text": "みんなでお花見に行った時、いつもより桜が綺麗に見えたんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "text": "桜の花の形ってかわいいよね。桜モチーフの小物でも作ろうかな？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf04.mtn",
+                "name": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "text": "春はあけぼのって言うけど、別に何時でも春っていいよね？",
+                "sound": "../../../../sound/voice/system_rip/systemSpring_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/kime01.mtn",
+                "name": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "text": "夏といったら青い海に白い雲！　これぞ青春の代名詞だよね〜！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "text": "ホラー研究会で聞いた、とっておきの怖い話聞きたい〜？",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/surprised01.mtn",
+                "name": "わわっ！　ベースケースがホカホカになってる！",
+                "text": "わわっ！　ベースケースがホカホカになってる！",
+                "sound": "../../../../sound/voice/system_rip/systemSummer_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "text": "秋は紅葉が綺麗だよね。モニカのみんなと紅葉狩り行きたいな～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf05.mtn",
+                "name": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "text": "落ち葉って、踏むたびに違う音がして楽しいよね",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "text": "お母さんが個展開くんだって。芸術の秋って感じだね～",
+                "sound": "../../../../sound/voice/system_rip/systemAutumn_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "text": "雪が降った日、家に帰ったらお父さんが雪像作ってた……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/sad01.mtn",
+                "name": "冬のアトリエはあったまるまで地獄だよ～……",
+                "text": "冬のアトリエはあったまるまで地獄だよ～……",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "text": "冬休みは海外に行く子が多いからお土産たくさんもらうんだ～",
+                "sound": "../../../../sound/voice/system_rip/systemWinter_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "text": "明日は待ちに待ったライブ本番かぁ。楽しみだな〜",
+                "sound": "../../../../sound/voice/system_rip/systemBeforeRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "青春の１ページに残るようなライブにしたいな〜！",
+                "text": "青春の１ページに残るようなライブにしたいな〜！",
+                "sound": "../../../../sound/voice/system_rip/systemRealLive_028.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "text": "今年のおみくじは吉だったんだ！　やっぱり普通が一番だよね",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "text": "無言で恵方巻き食べてる光景って、ちょっと面白いよね〜",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "text": "今日はしろちゃん達と、チョコ交換するんだ。すっごく楽しみ！",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "text": "ひな祭りは家族で作ったひな人形を飾るけど……普通かな？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_4.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/eeto01.mtn",
+                "name": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "text": "友チョコのお返しって何がいいんだろう？　クッキー？　ケーキ？",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_5.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "text": "エイプリルフールドッキリ用脚本完成！　みんな驚いてくれるかな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_6.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "text": "今家がハロウィン仕様なんだ……うちの親が張り切っちゃって……",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_7.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "text": "メリークリスマス！　えへへ、みんなでパーティ楽しみだな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_8.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "text": "今年は楽しい１年だったな～。来年もこんな風に過ごせるといいな",
+                "sound": "../../../../sound/voice/system_rip/systemHoliday_028_9.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "今日はどんな楽しいことが待ってるのかな～",
+                "text": "今日はどんな楽しいことが待ってるのかな～",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "text": "しろちゃんに激辛チップスあげようとしたら逃げられちゃった……",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "text": "今日もうちのアトリエで練習なんだ。楽しみだなー",
+                "sound": "../../../../sound/voice/system_rip/systemStory_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "text": "あ、練習始める？　今日はどんな曲をやろうか？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "ライブって、何が起こるかわからないから楽しいよね！",
+                "text": "ライブって、何が起こるかわからないから楽しいよね！",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "text": "とーこちゃん、今日のＭＣは何の話をするのかな～？",
+                "sound": "../../../../sound/voice/system_rip/systemBand_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ],
         "start": [
@@ -495,7 +1549,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
@@ -504,7 +1559,8 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
             },
             {
                 "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
@@ -513,7 +1569,98 @@
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
-                "interruptable": "true"
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "おっ、来た来た。今日もよろしくね～",
+                "text": "おっ、来た来た。今日もよろしくね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "待ってたよ～。それじゃ始めよっかー",
+                "text": "待ってたよ～。それじゃ始めよっかー",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "明日も忘れないようにね～",
+                "text": "明日も忘れないようにね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "おっ、来た来た。今日もよろしくね～",
+                "text": "おっ、来た来た。今日もよろしくね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "待ってたよ～。それじゃ始めよっかー",
+                "text": "待ってたよ～。それじゃ始めよっかー",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "明日も忘れないようにね～",
+                "text": "明日も忘れないようにね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile01.mtn",
+                "name": "おっ、来た来た。今日もよろしくね～",
+                "text": "おっ、来た来た。今日もよろしくね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_1.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/smile02.mtn",
+                "name": "待ってたよ～。それじゃ始めよっかー",
+                "text": "待ってたよ～。それじゃ始めよっかー",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_2.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/028_general_rip/nf03.mtn",
+                "name": "明日も忘れないようにね～",
+                "text": "明日も忘れないようにね～",
+                "sound": "../../../../sound/voice/system_rip/systemLoginBonus_028_3.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
             }
         ]
     },
