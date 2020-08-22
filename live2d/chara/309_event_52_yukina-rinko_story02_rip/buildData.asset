@@ -1,1 +1,90 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":0},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":181312479},"m_Name":"buildData","model":{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"309_rinko-yukina(event052_story01)-yukina.moc.bytes"},"physics":{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"309_rinko-yukina(event052_story01)-yukina.physics.json"},"textures":[{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"texture_00.png"},{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"texture_01.png"}],"transition":{"bundleName":"live2d/chara/309_general","fileName":"yukirinTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"event052_01.mtn.bytes"},{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"event052_02.mtn.bytes"},{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"event052_03.mtn.bytes"},{"bundleName":"live2d/chara/309_event_52_yukina-rinko_story02","fileName":"idle01.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/309_general","fileName":"rinko_default.exp.json"},{"bundleName":"live2d/chara/309_general","fileName":"rinko_sad.exp.json"},{"bundleName":"live2d/chara/309_general","fileName":"rinko_shame.exp.json"},{"bundleName":"live2d/chara/309_general","fileName":"rinko_smile01.exp.json"},{"bundleName":"live2d/chara/309_general","fileName":"rinko_surprised.exp.json"},{"bundleName":"live2d/chara/309_general","fileName":"rinko_worry.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": 181312479
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+            "fileName": "309_rinko-yukina(event052_story01)-yukina.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+            "fileName": "309_rinko-yukina(event052_story01)-yukina.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "texture_00.png"
+            },
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "texture_01.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/309_general",
+            "fileName": "yukirinTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "event052_01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "event052_02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "event052_03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/309_event_52_yukina-rinko_story02",
+                "fileName": "idle01.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_sad.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_shame.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_surprised.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/309_general",
+                "fileName": "rinko_worry.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}

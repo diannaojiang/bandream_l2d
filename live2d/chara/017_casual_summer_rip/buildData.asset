@@ -1,1 +1,246 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":"0000000000000000"},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":"2005f1cb04dcd0df"},"m_Name":"buildData","model":{"bundleName":"live2d/chara/017_casual_summer","fileName":"hina_summer_casual.moc.bytes"},"physics":{"bundleName":"live2d/chara/017_casual_summer","fileName":"hina.physics.json"},"textures":[{"bundleName":"live2d/chara/017_casual_summer","fileName":"texture_00.png"}],"transition":{"bundleName":"live2d/chara/017_general","fileName":"hinaTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/017_general","fileName":"nnf01.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf02.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf03.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf04.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf05.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf_left01.mtn.bytes"},{"bundleName":"live2d/chara/017_general","fileName":"nnf_right01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"angry01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"angry02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"bye01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"chuni02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"cry01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"cry03.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"eeto01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"gattsu01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"idle01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"idle02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"kime01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf03.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf04.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf05.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf_left01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"nf_right01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"oowarai01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"sad01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"sayomane01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"sayomane02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"serious01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"serious02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"shame01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"sleep01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"sleep02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"smile01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"smile02.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"smile03.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"surprised01.mtn.bytes"},{"bundleName":"live2d/chara/017_casual_summer","fileName":"wink01.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/017_general","fileName":"angry01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"cry01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"default.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"idle01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"kime01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"sad01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"serious01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"smile01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"smile02.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"smile03.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"surprised01.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": "0000000000000000"
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": "2005f1cb04dcd0df"
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/017_casual_summer",
+            "fileName": "hina_summer_casual.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/017_casual_summer",
+            "fileName": "hina.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "texture_00.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/017_general",
+            "fileName": "hinaTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf_left01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "nnf_right01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "angry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "angry02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "bye01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "chuni02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "cry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "cry03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "eeto01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "gattsu01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "idle01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "idle02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "kime01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf_left01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "nf_right01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "oowarai01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "sad01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "sayomane01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "sayomane02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "serious01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "serious02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "shame01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "sleep01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "sleep02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "smile01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "smile02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "smile03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "surprised01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_casual_summer",
+                "fileName": "wink01.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "angry01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "cry01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "idle01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "kime01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "sad01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "serious01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "smile02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "smile03.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "surprised01.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}

@@ -1,1 +1,210 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":0},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":181312479},"m_Name":"buildData","model":{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"hina_school_summer_v3.moc.bytes"},"physics":{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"hina_school_summer_v3.physics.json"},"textures":[{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"texture_00.png"}],"transition":{"bundleName":"live2d/chara/017_general","fileName":"hinaTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"angry01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"angry02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"bye01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"chuni02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"cry01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"cry03.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"eeto01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"event090_01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"gattsu01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"idle01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"idle02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"kime01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf03.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf04.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf05.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf_left01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"nf_right01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"oowarai01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"sad01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"sayomane01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"sayomane02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"serious01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"serious02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"shame01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"sleep01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"sleep02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"smile01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"smile02.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"smile03.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"surprised01.mtn.bytes"},{"bundleName":"live2d/chara/017_school_summer_v3","fileName":"wink01.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/017_general","fileName":"hina_default.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_smile02.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_special01.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_special02.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_special03.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_special04.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_special05.exp.json"},{"bundleName":"live2d/chara/017_general","fileName":"hina_surprised.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": 181312479
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/017_school_summer_v3",
+            "fileName": "hina_school_summer_v3.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/017_school_summer_v3",
+            "fileName": "hina_school_summer_v3.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "texture_00.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/017_general",
+            "fileName": "hinaTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "angry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "angry02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "bye01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "chuni02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "cry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "cry03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "eeto01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "event090_01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "gattsu01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "idle01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "idle02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "kime01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf_left01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "nf_right01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "oowarai01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "sad01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "sayomane01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "sayomane02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "serious01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "serious02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "shame01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "sleep01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "sleep02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "smile01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "smile02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "smile03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "surprised01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/017_school_summer_v3",
+                "fileName": "wink01.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_smile02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_special01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_special02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_special03.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_special04.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_special05.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/017_general",
+                "fileName": "hina_surprised.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}

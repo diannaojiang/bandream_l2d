@@ -1,1 +1,158 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":0},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":181312479},"m_Name":"buildData","model":{"bundleName":"live2d/chara/310_event_62_story_01","fileName":"ran_310.moc.bytes"},"physics":{"bundleName":"live2d/chara/310_event_62_story_01","fileName":"ran_310.physics.json"},"textures":[{"bundleName":"live2d/chara/310_event_62_story_01","fileName":"texture_00.png"}],"transition":{"bundleName":"live2d/chara/310_general","fileName":"chibiranTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/310_general","fileName":"angry01.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"cry01.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"cry02.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"cry04.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"cry05.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"hide01.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"hide02.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"hide_surprised patipati.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"hide_surprised.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"idle01.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"nf02.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"shame01.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"smile02.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"smile03.mtn.bytes"},{"bundleName":"live2d/chara/310_general","fileName":"surprised01.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/310_general","fileName":"angry01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"cry01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"default.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"idle01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"kime01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"pui01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"sad01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"serious01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"shame01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"smile01.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"smile02.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"smile03.exp.json"},{"bundleName":"live2d/chara/310_general","fileName":"surprised01.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": 181312479
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/310_event_62_story_01",
+            "fileName": "ran_310.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/310_event_62_story_01",
+            "fileName": "ran_310.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/310_event_62_story_01",
+                "fileName": "texture_00.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/310_general",
+            "fileName": "chibiranTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "angry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "cry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "cry02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "cry04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "cry05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "hide01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "hide02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "hide_surprised patipati.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "hide_surprised.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "idle01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "nf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "shame01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "smile02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "smile03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "surprised01.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "angry01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "cry01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "idle01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "kime01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "pui01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "sad01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "serious01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "shame01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "smile02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "smile03.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/310_general",
+                "fileName": "surprised01.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}

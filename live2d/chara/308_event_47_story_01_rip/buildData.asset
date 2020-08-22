@@ -1,1 +1,110 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":0},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":181312479},"m_Name":"buildData","model":{"bundleName":"live2d/chara/308_event_47_story_01","fileName":"hagumi_308.moc.bytes"},"physics":{"bundleName":"live2d/chara/308_event_47_story_01","fileName":"hagumi_308.physics.json"},"textures":[{"bundleName":"live2d/chara/308_event_47_story_01","fileName":"texture_00.png"}],"transition":{"bundleName":"live2d/chara/308_general","fileName":"chibihagumiTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/308_general","fileName":"angry01.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"cry01.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"gattsu01.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"idle01.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"idle02.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"nf02.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"sad01.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"smile02.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"smile04.mtn.bytes"},{"bundleName":"live2d/chara/308_general","fileName":"surprised01.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/308_general","fileName":"hagumi_default.exp.json"},{"bundleName":"live2d/chara/308_general","fileName":"hagumi_serious.exp.json"},{"bundleName":"live2d/chara/308_general","fileName":"hagumi_smile01.exp.json"},{"bundleName":"live2d/chara/308_general","fileName":"hagumi_smile02.exp.json"},{"bundleName":"live2d/chara/308_general","fileName":"hagumi_special.exp.json"},{"bundleName":"live2d/chara/308_general","fileName":"hagumi_surprised.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": 181312479
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/308_event_47_story_01",
+            "fileName": "hagumi_308.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/308_event_47_story_01",
+            "fileName": "hagumi_308.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/308_event_47_story_01",
+                "fileName": "texture_00.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/308_general",
+            "fileName": "chibihagumiTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "angry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "cry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "gattsu01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "idle01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "idle02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "nf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "sad01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "smile02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "smile04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "surprised01.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_serious.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_smile02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_special.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/308_general",
+                "fileName": "hagumi_surprised.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}

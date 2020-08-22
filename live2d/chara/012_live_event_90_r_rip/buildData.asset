@@ -1,1 +1,178 @@
-{"Base":{"m_GameObject":{"m_FileID":0,"m_PathID":0},"m_Enabled":1,"m_Script":{"m_FileID":0,"m_PathID":181312479},"m_Name":"buildData","model":{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kaoru_event090.moc.bytes"},"physics":{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kaoru_event090.physics.json"},"textures":[{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"texture_00.png"}],"transition":{"bundleName":"live2d/chara/012_general","fileName":"kaoruTransitionData.asset"},"motions":[{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"angry01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"bye01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"cry01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"idle01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"idle02.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kime01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kime02.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kime03.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kime04.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"kime05.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"natural01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf02.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf03.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf04.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf05.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf_left01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"nf_right01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"sad01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"serious01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"serious02.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"shame01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"smile01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"surprised01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"wink01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"worry01.mtn.bytes"},{"bundleName":"live2d/chara/012_live_event_90_r","fileName":"worry02.mtn.bytes"}],"expressions":[{"bundleName":"live2d/chara/012_general","fileName":"kaoru_default.exp.json"},{"bundleName":"live2d/chara/012_general","fileName":"kaoru_sad.exp.json"},{"bundleName":"live2d/chara/012_general","fileName":"kaoru_smile01.exp.json"},{"bundleName":"live2d/chara/012_general","fileName":"kaoru_special.exp.json"},{"bundleName":"live2d/chara/012_general","fileName":"kaoru_special02.exp.json"},{"bundleName":"live2d/chara/012_general","fileName":"kaoru_surprised.exp.json"}],"praramGeneralA":{"enabled":0,"type":0,"duration":0},"paramLoop":{"enabled":0,"type":0,"duration":0}}}
+{
+    "Base": {
+        "m_GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_Enabled": 1,
+        "m_Script": {
+            "m_FileID": 0,
+            "m_PathID": 181312479
+        },
+        "m_Name": "buildData",
+        "model": {
+            "bundleName": "live2d/chara/012_live_event_90_r",
+            "fileName": "kaoru_event090.moc.bytes"
+        },
+        "physics": {
+            "bundleName": "live2d/chara/012_live_event_90_r",
+            "fileName": "kaoru_event090.physics.json"
+        },
+        "textures": [
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "texture_00.png"
+            }
+        ],
+        "transition": {
+            "bundleName": "live2d/chara/012_general",
+            "fileName": "kaoruTransitionData.asset"
+        },
+        "motions": [
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "angry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "bye01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "cry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "idle01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "idle02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "kime01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "kime02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "kime03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "kime04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "kime05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "natural01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf05.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf_left01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "nf_right01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "sad01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "serious01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "serious02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "shame01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "smile01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "surprised01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "wink01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "worry01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/012_live_event_90_r",
+                "fileName": "worry02.mtn.bytes"
+            }
+        ],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_sad.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_special.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_special02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/012_general",
+                "fileName": "kaoru_surprised.exp.json"
+            }
+        ],
+        "praramGeneralA": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        },
+        "paramLoop": {
+            "enabled": 0,
+            "type": 0,
+            "duration": 0
+        }
+    }
+}
