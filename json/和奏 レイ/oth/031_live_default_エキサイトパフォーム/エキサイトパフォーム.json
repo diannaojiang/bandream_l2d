@@ -9,8 +9,24 @@
     "physics": "../../../../live2d/chara/031_live_default_rip/layer_other-11.physics",
     "expressions": [
         {
+            "name": "default",
+            "file": "../../../../live2d/chara/031_general_rip/default.exp.json"
+        },
+        {
             "name": "idle01",
             "file": "../../../../live2d/chara/031_general_rip/idle01.exp.json"
+        },
+        {
+            "name": "smile01",
+            "file": "../../../../live2d/chara/031_general_rip/smile01.exp.json"
+        },
+        {
+            "name": "smile02",
+            "file": "../../../../live2d/chara/031_general_rip/smile02.exp.json"
+        },
+        {
+            "name": "smile03",
+            "file": "../../../../live2d/chara/031_general_rip/smile03.exp.json"
         }
     ],
     "motions": {

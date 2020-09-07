@@ -159,6 +159,10 @@
             },
             {
                 "bundleName": "live2d/chara/033_general",
+                "fileName": "serious03.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/033_general",
                 "fileName": "shame01.mtn.bytes"
             },
             {
@@ -175,6 +179,10 @@
             },
             {
                 "bundleName": "live2d/chara/033_general",
+                "fileName": "smile04.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/033_general",
                 "fileName": "surprised01.mtn.bytes"
             },
             {
@@ -186,7 +194,12 @@
                 "fileName": "wink01.mtn.bytes"
             }
         ],
-        "expressions": [],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/033_general",
+                "fileName": "idle01.exp.json"
+            }
+        ],
         "praramGeneralA": {
             "enabled": 0,
             "type": 0,

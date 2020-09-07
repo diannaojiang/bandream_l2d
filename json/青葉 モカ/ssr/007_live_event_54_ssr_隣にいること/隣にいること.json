@@ -448,6 +448,7 @@
                 "Language": "ja"
             },
             {
+                "file": "../../../../live2d/chara/007_general_rip/nf01.mtn",
                 "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
@@ -827,6 +828,7 @@
                 "Language": "zhs"
             },
             {
+                "file": "../../../../live2d/chara/007_general_rip/nf01.mtn",
                 "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
@@ -1206,6 +1208,7 @@
                 "Language": "zht"
             },
             {
+                "file": "../../../../live2d/chara/007_general_rip/nf01.mtn",
                 "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
@@ -1585,6 +1588,7 @@
                 "Language": "en"
             },
             {
+                "file": "../../../../live2d/chara/007_general_rip/nf01.mtn",
                 "name": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "text": "モカちゃんの秋は睡眠の秋～。というわけで、お休み～……ぐ～",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-049.mp3",
@@ -1776,7 +1780,7 @@
             {
                 "file": "../../../../live2d/chara/007_general_rip/smile02.mtn",
                 "name": "おー、モカちゃん愛を感じますな～",
-                "text": "おー、モカちゃん愛を感じますな～",
+                "text": "Oho~, you can really feel the Mocatastic love~.",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-MC.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,

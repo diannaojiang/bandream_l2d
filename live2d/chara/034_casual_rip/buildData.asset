@@ -55,6 +55,14 @@
             },
             {
                 "bundleName": "live2d/chara/034_general",
+                "fileName": "happy01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/034_general",
+                "fileName": "happy02.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/034_general",
                 "fileName": "idle01.mtn.bytes"
             },
             {
@@ -140,17 +148,14 @@
             {
                 "bundleName": "live2d/chara/034_general",
                 "fileName": "surprised01.mtn.bytes"
-            },
-            {
-                "bundleName": "live2d/chara/034_general",
-                "fileName": "yorokobi01.mtn.bytes"
-            },
-            {
-                "bundleName": "live2d/chara/034_general",
-                "fileName": "yorokobi02.mtn.bytes"
             }
         ],
-        "expressions": [],
+        "expressions": [
+            {
+                "bundleName": "live2d/chara/034_general",
+                "fileName": "idle01.exp.json"
+            }
+        ],
         "praramGeneralA": {
             "enabled": 0,
             "type": 0,

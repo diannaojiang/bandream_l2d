@@ -3,8 +3,6 @@
 	"fade_in":500,
 	"fade_out":500,
 	"params":[
-		{"id":"PARAM_EYE_L_SMILE","val":1},
-		{"id":"PARAM_EYE_R_SMILE","val":1},
-		{"id":"PARAM_MOUTH_FORM_01","val":1,"def":-0.5}
+		{"id":"PARAM_EYE_FORM","val":0.51}
 	]
 }

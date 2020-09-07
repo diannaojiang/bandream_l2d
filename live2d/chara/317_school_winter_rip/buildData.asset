@@ -2,12 +2,12 @@
     "Base": {
         "m_GameObject": {
             "m_FileID": 0,
-            "m_PathID": 0
+            "m_PathID": "0000000000000000"
         },
         "m_Enabled": 1,
         "m_Script": {
             "m_FileID": 0,
-            "m_PathID": 181312479
+            "m_PathID": "2005f1cb04dcd0df"
         },
         "m_Name": "buildData",
         "model": {

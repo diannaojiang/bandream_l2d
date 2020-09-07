@@ -141,7 +141,23 @@
         "expressions": [
             {
                 "bundleName": "live2d/chara/031_general",
+                "fileName": "default.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/031_general",
                 "fileName": "idle01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/031_general",
+                "fileName": "smile01.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/031_general",
+                "fileName": "smile02.exp.json"
+            },
+            {
+                "bundleName": "live2d/chara/031_general",
+                "fileName": "smile03.exp.json"
             }
         ],
         "praramGeneralA": {

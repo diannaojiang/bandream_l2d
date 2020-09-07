@@ -47,6 +47,18 @@
                 "fade_out": 2000
             }
         ],
+        "happy": [
+            {
+                "file": "../../../../live2d/chara/034_general_rip/happy01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/happy02.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
         "idle": [
             {
                 "file": "../../../../live2d/chara/034_general_rip/idle01.mtn",
@@ -179,18 +191,6 @@
         "surprised": [
             {
                 "file": "../../../../live2d/chara/034_general_rip/surprised01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            }
-        ],
-        "yorokobi": [
-            {
-                "file": "../../../../live2d/chara/034_general_rip/yorokobi01.mtn",
-                "fade_in": 2000,
-                "fade_out": 2000
-            },
-            {
-                "file": "../../../../live2d/chara/034_general_rip/yorokobi02.mtn",
                 "fade_in": 2000,
                 "fade_out": 2000
             }
@@ -507,6 +507,36 @@
                 "Language": "ja"
             },
             {
+                "file": "../../../../live2d/chara/034_general_rip/kime01.mtn",
+                "name": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "text": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034019.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "text": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034016.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "text": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034020.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
                 "file": "../../../../live2d/chara/034_general_rip/smile01.mtn",
                 "name": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
                 "text": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
@@ -817,6 +847,36 @@
                 "Language": "zhs"
             },
             {
+                "file": "../../../../live2d/chara/034_general_rip/kime01.mtn",
+                "name": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "text": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034019.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "text": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034016.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "text": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034020.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
                 "file": "../../../../live2d/chara/034_general_rip/smile01.mtn",
                 "name": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
                 "text": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
@@ -1127,6 +1187,36 @@
                 "Language": "zht"
             },
             {
+                "file": "../../../../live2d/chara/034_general_rip/kime01.mtn",
+                "name": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "text": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034019.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "text": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034016.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "text": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034020.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
                 "file": "../../../../live2d/chara/034_general_rip/smile01.mtn",
                 "name": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
                 "text": "お誕生日おめでとうございます、レイヤさん。今日はお祝いです！",
@@ -1431,6 +1521,36 @@
                 "name": "ロックさんへのお誕生日プレゼントは、手作りのシュシュです～♪",
                 "text": "ロックさんへのお誕生日プレゼントは、手作りのシュシュです～♪",
                 "sound": "../../../../sound/voice/system_rip/systemBirthday_034032.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/kime01.mtn",
+                "name": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "text": "麻弥さん、ハピバです～♪　コラム、毎月スクラップしてます！",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034019.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "text": "今日は彩ちゃんのお誕生日！　最強のアイドルが生まれた日です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034016.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/034_general_rip/smile02.mtn",
+                "name": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "text": "イヴちゃんの誕生日をお祝いできるなんて、パレオは幸せ者です♪",
+                "sound": "../../../../sound/voice/system_rip/systemBirthday_034020.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
                 "interruptable": "true",
