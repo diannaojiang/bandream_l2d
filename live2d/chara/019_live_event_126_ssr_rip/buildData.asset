@@ -11,16 +11,16 @@
         },
         "m_Name": "buildData",
         "model": {
-            "bundleName": "live2d/chara/019_live_r_2020",
-            "fileName": "maya_other-11.moc.bytes"
+            "bundleName": "live2d/chara/019_live_event_126_ssr",
+            "fileName": "maya_event126.moc.bytes"
         },
         "physics": {
-            "bundleName": "live2d/chara/019_live_r_2020",
-            "fileName": "maya_other-11.physics.json"
+            "bundleName": "live2d/chara/019_live_event_126_ssr",
+            "fileName": "maya_event126.physics.json"
         },
         "textures": [
             {
-                "bundleName": "live2d/chara/019_live_r_2020",
+                "bundleName": "live2d/chara/019_live_event_126_ssr",
                 "fileName": "texture_00.png"
             }
         ],
@@ -199,6 +199,10 @@
             },
             {
                 "bundleName": "live2d/chara/019_general",
+                "fileName": "strange01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/019_general",
                 "fileName": "surprised01.mtn.bytes"
             },
             {
@@ -208,6 +212,10 @@
             {
                 "bundleName": "live2d/chara/019_general",
                 "fileName": "wink01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/019_live_event_126_ssr",
+                "fileName": "gacha01.mtn.bytes"
             }
         ],
         "expressions": [

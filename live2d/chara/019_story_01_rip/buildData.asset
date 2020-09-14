@@ -199,6 +199,10 @@
             },
             {
                 "bundleName": "live2d/chara/019_general",
+                "fileName": "strange01.mtn.bytes"
+            },
+            {
+                "bundleName": "live2d/chara/019_general",
                 "fileName": "surprised01.mtn.bytes"
             },
             {

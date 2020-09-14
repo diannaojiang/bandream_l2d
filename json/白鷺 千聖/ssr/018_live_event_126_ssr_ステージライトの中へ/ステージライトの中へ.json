@@ -1,11 +1,12 @@
 {
     "type": "Live2D Model Setting",
-    "name": "ブルーミングエール",
-    "model": "../../../../live2d/chara/018_live_r_2020_rip/chisato_other-11.moc",
+    "name": "ステージライトの中へ",
+    "model": "../../../../live2d/chara/018_live_event_126_ssr_rip/chisato_event126.moc",
     "textures": [
-        "../../../../live2d/chara/018_live_r_2020_rip/texture_00.png"
+        "../../../../live2d/chara/018_live_event_126_ssr_rip/texture_00.png",
+        "../../../../live2d/chara/018_live_event_126_ssr_rip/texture_01.png"
     ],
-    "physics": "../../../../live2d/chara/018_live_r_2020_rip/chisato_other-11.physics",
+    "physics": "../../../../live2d/chara/018_live_event_126_ssr_rip/chisato_event126.physics",
     "expressions": [
         {
             "name": "angry02",
@@ -251,6 +252,13 @@
         "surprised": [
             {
                 "file": "../../../../live2d/chara/018_general_rip/surprised01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "gacha": [
+            {
+                "file": "../../../../live2d/chara/018_live_event_126_ssr_rip/gacha01.mtn",
                 "fade_in": 2000,
                 "fade_out": 2000
             }

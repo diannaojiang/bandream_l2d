@@ -11,16 +11,16 @@
         },
         "m_Name": "buildData",
         "model": {
-            "bundleName": "live2d/chara/020_live_r_2020",
-            "fileName": "eve_other-11.moc.bytes"
+            "bundleName": "live2d/chara/020_live_event_126_r",
+            "fileName": "eve_event126.moc.bytes"
         },
         "physics": {
-            "bundleName": "live2d/chara/020_live_r_2020",
-            "fileName": "eve_other-11.physics.json"
+            "bundleName": "live2d/chara/020_live_event_126_r",
+            "fileName": "eve_event126.physics.json"
         },
         "textures": [
             {
-                "bundleName": "live2d/chara/020_live_r_2020",
+                "bundleName": "live2d/chara/020_live_event_126_r",
                 "fileName": "texture_00.png"
             }
         ],

@@ -1,11 +1,11 @@
 {
     "type": "Live2D Model Setting",
-    "name": "練習着",
-    "model": "../../../../live2d/chara/019_story_01_rip/maya.moc",
+    "name": "自分らしく楽しく",
+    "model": "../../../../live2d/chara/019_live_event_126_ssr_rip/maya_event126.moc",
     "textures": [
-        "../../../../live2d/chara/019_story_01_rip/texture_00.png"
+        "../../../../live2d/chara/019_live_event_126_ssr_rip/texture_00.png"
     ],
-    "physics": "../../../../live2d/chara/019_story_01_rip/maya.physics",
+    "physics": "../../../../live2d/chara/019_live_event_126_ssr_rip/maya_event126.physics",
     "expressions": [
         {
             "name": "angry01",
@@ -361,6 +361,13 @@
         "wink": [
             {
                 "file": "../../../../live2d/chara/019_general_rip/wink01.mtn",
+                "fade_in": 2000,
+                "fade_out": 2000
+            }
+        ],
+        "gacha": [
+            {
+                "file": "../../../../live2d/chara/019_live_event_126_ssr_rip/gacha01.mtn",
                 "fade_in": 2000,
                 "fade_out": 2000
             }

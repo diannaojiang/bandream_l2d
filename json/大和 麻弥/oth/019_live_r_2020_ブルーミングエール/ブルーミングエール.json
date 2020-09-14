@@ -8,6 +8,26 @@
     "physics": "../../../../live2d/chara/019_live_r_2020_rip/maya_other-11.physics",
     "expressions": [
         {
+            "name": "angry01",
+            "file": "../../../../live2d/chara/019_general_rip/angry01.exp.json"
+        },
+        {
+            "name": "cry01",
+            "file": "../../../../live2d/chara/019_general_rip/cry01.exp.json"
+        },
+        {
+            "name": "default",
+            "file": "../../../../live2d/chara/019_general_rip/default.exp.json"
+        },
+        {
+            "name": "idle01",
+            "file": "../../../../live2d/chara/019_general_rip/idle01.exp.json"
+        },
+        {
+            "name": "kime01",
+            "file": "../../../../live2d/chara/019_general_rip/kime01.exp.json"
+        },
+        {
             "name": "maya_default",
             "file": "../../../../live2d/chara/019_general_rip/maya_default.exp.json"
         },
@@ -30,6 +50,34 @@
         {
             "name": "maya_special03",
             "file": "../../../../live2d/chara/019_general_rip/maya_special03.exp.json"
+        },
+        {
+            "name": "sad01",
+            "file": "../../../../live2d/chara/019_general_rip/sad01.exp.json"
+        },
+        {
+            "name": "serious01",
+            "file": "../../../../live2d/chara/019_general_rip/serious01.exp.json"
+        },
+        {
+            "name": "smile01",
+            "file": "../../../../live2d/chara/019_general_rip/smile01.exp.json"
+        },
+        {
+            "name": "smile02",
+            "file": "../../../../live2d/chara/019_general_rip/smile02.exp.json"
+        },
+        {
+            "name": "smile03",
+            "file": "../../../../live2d/chara/019_general_rip/smile03.exp.json"
+        },
+        {
+            "name": "smile04",
+            "file": "../../../../live2d/chara/019_general_rip/smile04.exp.json"
+        },
+        {
+            "name": "surprised01",
+            "file": "../../../../live2d/chara/019_general_rip/surprised01.exp.json"
         }
     ],
     "motions": {

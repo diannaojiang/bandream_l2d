@@ -1,11 +1,11 @@
 {
     "type": "Live2D Model Setting",
-    "name": "ブルーミングエール",
-    "model": "../../../../live2d/chara/017_live_r_2020_rip/hina_other-11.moc",
+    "name": "先輩ムードメーカー",
+    "model": "../../../../live2d/chara/017_live_event_126_r_rip/hina_event126.moc",
     "textures": [
-        "../../../../live2d/chara/017_live_r_2020_rip/texture_00.png"
+        "../../../../live2d/chara/017_live_event_126_r_rip/texture_00.png"
     ],
-    "physics": "../../../../live2d/chara/017_live_r_2020_rip/hina_other-11.physics",
+    "physics": "../../../../live2d/chara/017_live_event_126_r_rip/hina_event126.physics",
     "expressions": [
         {
             "name": "angry01",
