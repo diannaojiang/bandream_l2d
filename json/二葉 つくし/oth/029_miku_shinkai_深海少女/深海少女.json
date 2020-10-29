@@ -956,7 +956,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/nf04.mtn",
                 "name": "くしゅん！　……か、花粉症じゃないよ！　絶対違うよ！",
-                "text": "くしゅん！　……か、花粉症じゃないよ！　絶対違うよ！",
+                "text": "哈啾！……才，才不是花粉症啦！絕對不是！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -966,7 +966,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "月ノ森の庭園でも、いろんなお花が咲き始めたんだ",
-                "text": "月ノ森の庭園でも、いろんなお花が咲き始めたんだ",
+                "text": "月森女的庭院裡也是，好多花朵漸漸綻開了",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -976,7 +976,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "春は新しいことが始まる季節だね。モニカも春に結成したんだ",
-                "text": "春は新しいことが始まる季節だね。モニカも春に結成したんだ",
+                "text": "春天是充滿新契機的季節呢。Monica也是在春天時成立的",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -986,7 +986,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "毎日暑いから、水分補給を忘れずにね！　リーダーとの約束！",
-                "text": "毎日暑いから、水分補給を忘れずにね！　リーダーとの約束！",
+                "text": "每天都很熱，別忘了要補充水分哦！這是和團長的約定！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -996,7 +996,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/sad01.mtn",
                 "name": "台風は嫌だなあ。雨もひどいし、風も……怖いとかじゃないよ！",
-                "text": "台風は嫌だなあ。雨もひどいし、風も……怖いとかじゃないよ！",
+                "text": "颱風好討厭人耶。雨很大，風也……才不是因為害怕喔！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1006,7 +1006,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile03.mtn",
                 "name": "暑い日はいつにも増して、ましろちゃんの声がか細くなるんだ……",
-                "text": "暑い日はいつにも増して、ましろちゃんの声がか細くなるんだ……",
+                "text": "因為熱天變多了，小真白的聲音變得氣若游絲……",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1016,7 +1016,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/serious01.mtn",
                 "name": "勉強の秋……今度こそ、透子ちゃんの赤点を回避させなきゃ！",
-                "text": "勉強の秋……今度こそ、透子ちゃんの赤点を回避させなきゃ！",
+                "text": "用功之秋……這次一定要讓小透全科及格！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1026,7 +1026,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "妹達の運動会を見に行ったの。しっかり応援してきたよ",
-                "text": "妹達の運動会を見に行ったの。しっかり応援してきたよ",
+                "text": "我去看了妹妹們的運動會。我很努力地替他們加了油",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1036,7 +1036,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/sad01.mtn",
                 "name": "衣替えで出てきた、昔のセーター……今でも着れちゃったんだ……",
-                "text": "衣替えで出てきた、昔のセーター……今でも着れちゃったんだ……",
+                "text": "我拿出了換季衣物，以前的毛衣……現在還能穿下……",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1046,7 +1046,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/sad01.mtn",
                 "name": "うう～……寒い日って、鼻の奥がつーんとして、痛いよね……",
-                "text": "うう～……寒い日って、鼻の奥がつーんとして、痛いよね……",
+                "text": "嗚嗚～……天氣一冷，鼻子就像被嗆到一樣，好痛喔……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1056,7 +1056,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile02.mtn",
                 "name": "観葉植物は、冬の間、お家の中に入れてあげるんだ",
-                "text": "観葉植物は、冬の間、お家の中に入れてあげるんだ",
+                "text": "冬天的時候，會把觀葉植物收進家裡放",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1066,7 +1066,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/kime01.mtn",
                 "name": "お家のこたつは、妹達に譲ってあげるの。お姉ちゃんだからね！",
-                "text": "お家のこたつは、妹達に譲ってあげるの。お姉ちゃんだからね！",
+                "text": "我把家裡的暖桌讓給妹妹們用了。誰教我是姊姊呢！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1186,7 +1186,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "Morfonica、略してモニカ！　かわいいでしょ？",
-                "text": "Morfonica、略してモニカ！　かわいいでしょ？",
+                "text": "Morfonica簡稱Monica！很可愛對吧？",
                 "sound": "../../../../sound/voice/system_rip/systemStory_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1196,7 +1196,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/serious01.mtn",
                 "name": "むむむ……どうすればるいさんみたいな大人スタイルに……",
-                "text": "むむむ……どうすればるいさんみたいな大人スタイルに……",
+                "text": "呣呣呣……要怎麼樣才能像瑠唯同學一樣成熟地……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1206,7 +1206,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/nf04.mtn",
                 "name": "スティックをこう、回して……あ、あれ！？　落としちゃった！",
-                "text": "スティックをこう、回して……あ、あれ！？　落としちゃった！",
+                "text": "把鼓棒像這樣，轉起……來，什麼！？竟然掉了！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1216,7 +1216,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "困ったことがあったら、リーダーの私が相談に乗るよ？",
-                "text": "困ったことがあったら、リーダーの私が相談に乗るよ？",
+                "text": "如果有煩惱的事情，身為團長的我可以和你商量喔？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1226,7 +1226,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "今日の練習、何から始める？",
-                "text": "今日の練習、何から始める？",
+                "text": "今天的練習，要從哪邊開始？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1236,7 +1236,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/kime01.mtn",
                 "name": "月ノ森生の自覚を持って、がんばろう！",
-                "text": "月ノ森生の自覚を持って、がんばろう！",
+                "text": "心懷月森女的矜持，衝吧！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1648,7 +1648,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "今日もしっかり、がんばろうね！",
-                "text": "今日もしっかり、がんばろうね！",
+                "text": "今天要好好加油呢！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_029_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1658,7 +1658,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile02.mtn",
                 "name": "待ってたよ！　じゃあさっそく、練習ね！",
-                "text": "待ってたよ！　じゃあさっそく、練習ね！",
+                "text": "等很久了唷！快點開始練習吧！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_029_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1668,7 +1668,7 @@
             {
                 "file": "../../../../live2d/chara/029_general_rip/smile01.mtn",
                 "name": "明日も練習するから、忘れないでね！",
-                "text": "明日も練習するから、忘れないでね！",
+                "text": "別忘了明天也要練習哦！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_029_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,

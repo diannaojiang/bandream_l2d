@@ -952,7 +952,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
-                "text": "春はおばあさまが、野点にめっちゃ連れてこうとするんだよね……",
+                "text": "春天時，奶奶總會很想帶我去戶外品茶會呢……",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -962,7 +962,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "満開の桜って超映えるよね～。見てると超テンション上がる！",
-                "text": "満開の桜って超映えるよね～。見てると超テンション上がる！",
+                "text": "滿開的櫻花超美的對吧～。光看就讓人非常興奮！",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -972,7 +972,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
-                "text": "この前シロが桜見てボーっとしてたんだ。歌詞考えてたのかな？",
+                "text": "之前小白看櫻花看得好入神。是在想歌詞嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -982,7 +982,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
-                "text": "超暑くね！？　暑すぎて逆にテンション上がってきた！",
+                "text": "不覺得超熱的嗎！？熱到太超過反而讓人嗨起來了！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -992,7 +992,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/angry01.mtn",
                 "name": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
-                "text": "夏の太陽がんばりすぎじゃね？　冬にがんばってほしいんだけど！",
+                "text": "夏天的太陽不會太努力嗎？希望他冬天時可以再加點油欸！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1002,7 +1002,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
-                "text": "夏休みは毎年別荘行くんだ。近くのアウトレット行くの超楽しみ！",
+                "text": "每年暑假都會去別墅度假哦。好期待去附近的OUTLET逛街！",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1012,7 +1012,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
-                "text": "あたし的に今年の秋は『焼き芋』が来ると思うんだよね～",
+                "text": "人家個人認為，今年秋季流行趨勢是「烤地瓜」哦～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1022,7 +1022,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/nf05.mtn",
                 "name": "今年の秋は、音楽の秋で決まりっしょ！",
-                "text": "今年の秋は、音楽の秋で決まりっしょ！",
+                "text": "就決定今年的秋天是音樂之秋了！",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1032,7 +1032,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
-                "text": "うちの庭、イチョウの木があるから、落ち葉半端ないんだよねー",
+                "text": "我家的庭院裡頭有種銀杏，落葉的時候超級可怕的～",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1042,7 +1042,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/sad01.mtn",
                 "name": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
-                "text": "う〜、寒くて指凍る。冬は外でギター弾くのマジ無理だわ……",
+                "text": "嗚～手指冷到要結凍。辦不到啦……在冬天的戶外彈吉他",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1052,7 +1052,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/nf03.mtn",
                 "name": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
-                "text": "雪で作るなら……あたしらの雪像とか？　なんかカッコよくね？",
+                "text": "要用雪創作……做幾尊我們的雪像怎麼樣啊？不覺得很帥嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1062,7 +1062,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
-                "text": "全身にカイロ貼ったらマジ暑すぎ……アイス食べたくなってきた！",
+                "text": "全身都貼滿暖暖包之後超熱的……好想吃冰！",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1182,7 +1182,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
-                "text": "あたしのギター、ちょっと珍しい形じゃん？　気に入ってるんだー",
+                "text": "人家的吉他，外型是不是很少見啊？人家超喜歡的～",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1192,7 +1192,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/nf02.mtn",
                 "name": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
-                "text": "あたしらの練習場所は、ななみの家のアトリエなんだよね",
+                "text": "我們的練習地點可是七深家的工作坊唷",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1202,7 +1202,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
-                "text": "あ、今服のデザイン思いついた！　宇宙レベルにヤバいやつ！",
+                "text": "啊，我剛才靈光一閃想到了服裝的設計！宇宙好看的那種！",
                 "sound": "../../../../sound/voice/system_rip/systemStory_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1212,7 +1212,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "準備おっけー！　いつでも始められるよ！",
-                "text": "準備おっけー！　いつでも始められるよ！",
+                "text": "準備OK！隨時都可以開始喔！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1222,7 +1222,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
-                "text": "準備おっけー！　いつでも……あれ？　あたしのピックどこ！？",
+                "text": "準備OK！隨時都……咦？人家的撥片去哪了！？",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1232,7 +1232,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/kime01.mtn",
                 "name": "ライブでも練習でも、やるならマジでやんないとね！",
-                "text": "ライブでも練習でも、やるならマジでやんないとね！",
+                "text": "無論是練習或者LIVE，要做的話都要發揮全力奉陪呢！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1644,7 +1644,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日も１日楽しくいこー！",
-                "text": "今日も１日楽しくいこー！",
+                "text": "今天也要嗨整天～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1654,7 +1654,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile01.mtn",
                 "name": "準備オッケー？　それじゃ練習、始めよー！",
-                "text": "準備オッケー？　それじゃ練習、始めよー！",
+                "text": "準備好了嗎？那就開始練習囉～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1664,7 +1664,7 @@
             {
                 "file": "../../../../live2d/chara/027_general_rip/smile02.mtn",
                 "name": "今日もテンション上げてこ～！",
-                "text": "今日もテンション上げてこ～！",
+                "text": "今天也要嗨翻天～！",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_027_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,

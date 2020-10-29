@@ -898,7 +898,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "桜の花びらが川を流れてるのって、なんだかパレードみたいだね",
-                "text": "桜の花びらが川を流れてるのって、なんだかパレードみたいだね",
+                "text": "櫻花花瓣在河面上漂流，就像一場遊行呢",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -908,7 +908,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
                 "name": "たんぽぽの綿毛がいっぱい飛んでる。春だけど雪が降ってるみたい",
-                "text": "たんぽぽの綿毛がいっぱい飛んでる。春だけど雪が降ってるみたい",
+                "text": "蒲公英的種子滿天飛。雖然是春天，但好像在下雪",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -918,7 +918,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf02.mtn",
                 "name": "あ、ちょうちょ。学校で見たのと、同じ種類かな……？",
-                "text": "あ、ちょうちょ。学校で見たのと、同じ種類かな……？",
+                "text": "啊，蝴蝶。和在學校看到的那隻，會不會是同一個品種呢……？",
                 "sound": "../../../../sound/voice/system_rip/systemSpring_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -928,7 +928,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
                 "name": "アイスにスイカにかき氷……お腹壊さないようにしないと……",
-                "text": "アイスにスイカにかき氷……お腹壊さないようにしないと……",
+                "text": "冰淇淋加西瓜再加上剉冰……要注意不能吃壞肚子……",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -938,7 +938,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf02.mtn",
                 "name": "るいさん、どんなに暑くても表情が変わらないんだ。すごいなあ",
-                "text": "るいさん、どんなに暑くても表情が変わらないんだ。すごいなあ",
+                "text": "瑠唯同學真厲害，不管多熱都不會表現在表情上",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -948,7 +948,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "大きな入道雲を見ると、何かが中にいるような想像しちゃうんだ",
-                "text": "大きな入道雲を見ると、何かが中にいるような想像しちゃうんだ",
+                "text": "看見一大片積雨雲，就會開始想像裡面藏了什麼東西",
                 "sound": "../../../../sound/voice/system_rip/systemSummer_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -958,7 +958,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
                 "name": "食欲の秋だね。好きなものより、苦手なもののほうが多いけど……",
-                "text": "食欲の秋だね。好きなものより、苦手なもののほうが多いけど……",
+                "text": "食欲之秋來了。雖然比起喜歡的食物，不敢吃的食物反而更多……",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -968,7 +968,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
                 "name": "月ノ森の人達も、焼き芋って食べるのかな？",
-                "text": "月ノ森の人達も、焼き芋って食べるのかな？",
+                "text": "月森女的學生也會吃烤地瓜嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -978,7 +978,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf04.mtn",
                 "name": "秋って少しさびしいよね。……それが風流っていうものなのかな？",
-                "text": "秋って少しさびしいよね。……それが風流っていうものなのかな？",
+                "text": "秋天有一點寂寞的感覺呢。……那是叫作季節風情嗎？",
                 "sound": "../../../../sound/voice/system_rip/systemAutumn_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -988,7 +988,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "明るい空に月があると、違う世界に来たみたいでちょっと楽しいな",
-                "text": "明るい空に月があると、違う世界に来たみたいでちょっと楽しいな",
+                "text": "晴朗的天空中高掛著明月，感覺好像進入了異世界，好有趣呢",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -998,7 +998,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
                 "name": "雪の日は、なんだか世界が白い布団を被って眠ってるみたい……",
-                "text": "雪の日は、なんだか世界が白い布団を被って眠ってるみたい……",
+                "text": "下雪的日子，世界好像正裹著雪白的棉被在呼呼大睡……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1008,7 +1008,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
                 "name": "つくしちゃん、いっぱい着込んでスズメみたいになってたんだ……",
-                "text": "つくしちゃん、いっぱい着込んでスズメみたいになってたんだ……",
+                "text": "小紫穿了好多層衣服，看起來像麻雀一樣……",
                 "sound": "../../../../sound/voice/system_rip/systemWinter_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1128,7 +1128,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "ぬいぐるみに囲まれてるとすごく落ち着くんだ……",
-                "text": "ぬいぐるみに囲まれてるとすごく落ち着くんだ……",
+                "text": "被玩偶包圍著讓人心情好寧靜……",
                 "sound": "../../../../sound/voice/system_rip/systemStory_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1138,7 +1138,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/sad01.mtn",
                 "name": "教科書の音読、苦手なんだ。注目されるし、大きな声も出なくて",
-                "text": "教科書の音読、苦手なんだ。注目されるし、大きな声も出なくて",
+                "text": "我不擅長朗誦課文。會被大家盯著看，而且我也不擅長大聲說話",
                 "sound": "../../../../sound/voice/system_rip/systemStory_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1148,7 +1148,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
                 "name": "一人の時はよく空想してるかも。作詞のヒントになったりするんだ",
-                "text": "一人の時はよく空想してるかも。作詞のヒントになったりするんだ",
+                "text": "獨處的時候我常常天馬行空地想像。從中得到許多作詞的靈感",
                 "sound": "../../../../sound/voice/system_rip/systemStory_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1158,7 +1158,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile03.mtn",
                 "name": "ステージって、すごく熱いんだね。客席からだとわからなかった",
-                "text": "ステージって、すごく熱いんだね。客席からだとわからなかった",
+                "text": "舞台上非常炎熱呢。這是在觀眾席沒辦法體會到的",
                 "sound": "../../../../sound/voice/system_rip/systemBand_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1168,7 +1168,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "練習も楽しいけど、やっぱりライブって特別だよね",
-                "text": "練習も楽しいけど、やっぱりライブって特別だよね",
+                "text": "雖然練習也很開心，但是LIVE的感覺果然更特別對吧",
                 "sound": "../../../../sound/voice/system_rip/systemBand_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1178,7 +1178,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/uziuzi01.mtn",
                 "name": "歌詞、間違えないように気をつけなくちゃ……！",
-                "text": "歌詞、間違えないように気をつけなくちゃ……！",
+                "text": "要注意不要唱錯詞……！",
                 "sound": "../../../../sound/voice/system_rip/systemBand_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1590,7 +1590,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile02.mtn",
                 "name": "今日もがんばろうね",
-                "text": "今日もがんばろうね",
+                "text": "今天也要加油哦",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_1.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1600,7 +1600,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/smile01.mtn",
                 "name": "待ってたよ。練習、始めてもいいかな……？",
-                "text": "待ってたよ。練習、始めてもいいかな……？",
+                "text": "終於來了。可以開始練習了吧……？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_2.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
@@ -1610,7 +1610,7 @@
             {
                 "file": "../../../../live2d/chara/026_general_rip/nf03.mtn",
                 "name": "明日も来てくれる、よね？",
-                "text": "明日も来てくれる、よね？",
+                "text": "明天也會來吧？會吧？",
                 "sound": "../../../../sound/voice/system_rip/systemLoginBonus_026_3.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,

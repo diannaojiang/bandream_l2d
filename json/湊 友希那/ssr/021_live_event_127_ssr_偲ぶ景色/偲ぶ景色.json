@@ -1869,7 +1869,7 @@
             {
                 "file": "../../../../live2d/chara/021_live_event_127_ssr_rip/smile01.mtn",
                 "name": "少し驚いたけれど、嬉しいわ。ありがとう",
-                "text": "少し驚いたけれど、嬉しいわ。ありがとう",
+                "text": "I'm a little surprised, but grateful. Thank you.",
                 "sound": "../../../../sound/voice/system_rip/2019BDRE-YK.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,

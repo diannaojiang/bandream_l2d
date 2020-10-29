@@ -647,6 +647,16 @@
                 "Language": "ja"
             },
             {
+                "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/nf04.mtn",
+                "name": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "text": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-008.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "ja"
+            },
+            {
                 "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/smile01.mtn",
                 "name": "こんなのいいのに。でも、ありがと",
                 "text": "こんなのいいのに。でも、ありがと",
@@ -1011,6 +1021,16 @@
                 "name": "メリークリスマス。今年のパーティもいつも通りみんなで楽しもう",
                 "text": "メリークリスマス。今年のパーティもいつも通りみんなで楽しもう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-031.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zhs"
+            },
+            {
+                "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/nf04.mtn",
+                "name": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "text": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-008.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
                 "interruptable": "true",
@@ -1387,6 +1407,16 @@
                 "Language": "zht"
             },
             {
+                "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/nf04.mtn",
+                "name": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "text": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-008.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "zht"
+            },
+            {
                 "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/smile01.mtn",
                 "name": "こんなのいいのに。でも、ありがと",
                 "text": "就說不用這樣慶祝了嘛。但是，謝謝你們",
@@ -1751,6 +1781,16 @@
                 "name": "メリークリスマス。今年のパーティもいつも通りみんなで楽しもう",
                 "text": "メリークリスマス。今年のパーティもいつも通りみんなで楽しもう",
                 "sound": "../../../../sound/voice/system_rip/sys-2020-AG-031.mp3",
+                "motion_duration": 10000,
+                "text_duration": 10000,
+                "interruptable": "true",
+                "Language": "en"
+            },
+            {
+                "file": "../../../../live2d/chara/006_live_event_101_ssr_rip/nf04.mtn",
+                "name": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "text": "湊さん、おめでとうございます。その……プレゼント、どうぞ",
+                "sound": "../../../../sound/voice/system_rip/sys-2020-AG-008.mp3",
                 "motion_duration": 10000,
                 "text_duration": 10000,
                 "interruptable": "true",
